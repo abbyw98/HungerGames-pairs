@@ -98,14 +98,14 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
-.ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
-.tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
-.fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
+.ie {background: url(http://images2.wikia.nocookie.net/__cb20110721184016/thehungergames/images/5/58/The_Hunger_Games_poster-0001.jpeg) no-repeat; background-size: contain;}
+.fx {background: url(http://latino-review.com/wp-content/uploads/2013/01/teaserposter-hungergames2.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://ecx.images-amazon.com/images/I/41dWbAUGSEL._SL500_SS500_.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://www.slashfilm.com/wp/wp-content/images/The-Hunger-Games-Jennifer-Lawrence-as-Katniss-Everdeen.jpg) no-repeat; background-size: contain;}
+.op {background: url(http://static.tvtropes.org/pmwiki/pub/images/Peeta_Mellark_5_4557.jpg) no-repeat; background-size: contain;}
+.ns {background: url(http://static.tvtropes.org/pmwiki/pub/images/Peeta_Mellark_5_4557.jpg) no-repeat; background-size: contain;}
+.tb {background: url(http://cdn01.cdn.justjaredjr.com/wp-content/uploads/headlines/2011/04/willow-shields-prim-thg.jpg) no-repeat; background-size: contain;}
+.fm {background: url(http://images5.fanpop.com/image/photos/29500000/The-Hunger-Games-Movie-thresh-and-rue-29529545-252-387.jpg) no-repeat; background-size: contain;}
 
 
 /* The .reset class is added to the cards when the game is reset */
@@ -168,7 +168,7 @@ body {
 #gamePlay {
   margin: 220px auto 0;
   display: block;
-}
+
 
 #loading.loaded {
   display: none;
